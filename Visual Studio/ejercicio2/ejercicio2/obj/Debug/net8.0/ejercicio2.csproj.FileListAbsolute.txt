@@ -1,0 +1,15 @@
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\ejercicio2\ejercicio2\obj\Debug\net8.0\ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\ejercicio2\ejercicio2\obj\Debug\net8.0\ejercicio2.AssemblyInfoInputs.cache
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\ejercicio2\ejercicio2\obj\Debug\net8.0\ejercicio2.AssemblyInfo.cs
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\ejercicio2\ejercicio2\obj\Debug\net8.0\ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\ejercicio2\ejercicio2\obj\Debug\net8.0\ejercicio2.sourcelink.json
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\ejercicio2\ejercicio2\bin\Debug\net8.0\ejercicio2.exe
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\ejercicio2\ejercicio2\bin\Debug\net8.0\ejercicio2.deps.json
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\ejercicio2\ejercicio2\bin\Debug\net8.0\ejercicio2.runtimeconfig.json
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\ejercicio2\ejercicio2\bin\Debug\net8.0\ejercicio2.dll
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\ejercicio2\ejercicio2\bin\Debug\net8.0\ejercicio2.pdb
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\ejercicio2\ejercicio2\obj\Debug\net8.0\ejercicio2.dll
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\ejercicio2\ejercicio2\obj\Debug\net8.0\refint\ejercicio2.dll
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\ejercicio2\ejercicio2\obj\Debug\net8.0\ejercicio2.pdb
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\ejercicio2\ejercicio2\obj\Debug\net8.0\ejercicio2.genruntimeconfig.cache
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\ejercicio2\ejercicio2\obj\Debug\net8.0\ref\ejercicio2.dll
