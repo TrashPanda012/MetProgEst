@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compras", "Compras\Compras.csproj", "{C50D1D17-4C34-4CAA-AFFB-A913E54CA8E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularNota", "CalcularNota\CalcularNota.csproj", "{1261A175-75AC-45A8-99C4-CBB8B9604534}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C50D1D17-4C34-4CAA-AFFB-A913E54CA8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C50D1D17-4C34-4CAA-AFFB-A913E54CA8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C50D1D17-4C34-4CAA-AFFB-A913E54CA8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C50D1D17-4C34-4CAA-AFFB-A913E54CA8E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1261A175-75AC-45A8-99C4-CBB8B9604534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1261A175-75AC-45A8-99C4-CBB8B9604534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1261A175-75AC-45A8-99C4-CBB8B9604534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1261A175-75AC-45A8-99C4-CBB8B9604534}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {040FA6AB-7520-4FBA-B7E5-07230D45AE2A}
+	EndGlobalSection
+EndGlobal
