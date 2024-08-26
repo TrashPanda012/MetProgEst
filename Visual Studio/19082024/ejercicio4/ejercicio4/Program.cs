@@ -11,7 +11,7 @@
             Console.Write("Dime el radio del círculo: ");
             radio = double.Parse(Console.ReadLine());
             //Formula y resultado
-            resultado = Math.PI * Math.Pow(2, radio);
+            resultado = Math.PI * Math.Pow(radio, 2);
             Console.WriteLine("El área del círculo es igual a: " + resultado);
         }
     }
