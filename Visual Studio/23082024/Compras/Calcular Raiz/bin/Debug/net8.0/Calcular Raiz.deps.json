@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Calcular Raiz/1.0.0": {
+        "runtime": {
+          "Calcular Raiz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calcular Raiz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

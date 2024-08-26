@@ -1,0 +1,15 @@
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Cubo\bin\Debug\net8.0\Calcular Cubo.exe
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Cubo\bin\Debug\net8.0\Calcular Cubo.deps.json
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Cubo\bin\Debug\net8.0\Calcular Cubo.runtimeconfig.json
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Cubo\bin\Debug\net8.0\Calcular Cubo.dll
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Cubo\bin\Debug\net8.0\Calcular Cubo.pdb
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Cubo\obj\Debug\net8.0\Calcular Cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Cubo\obj\Debug\net8.0\Calcular Cubo.AssemblyInfoInputs.cache
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Cubo\obj\Debug\net8.0\Calcular Cubo.AssemblyInfo.cs
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Cubo\obj\Debug\net8.0\Calcular Cubo.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Cubo\obj\Debug\net8.0\Calcular Cubo.sourcelink.json
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Cubo\obj\Debug\net8.0\Calcular Cubo.dll
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Cubo\obj\Debug\net8.0\refint\Calcular Cubo.dll
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Cubo\obj\Debug\net8.0\Calcular Cubo.pdb
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Cubo\obj\Debug\net8.0\Calcular Cubo.genruntimeconfig.cache
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Cubo\obj\Debug\net8.0\ref\Calcular Cubo.dll

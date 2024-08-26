@@ -1,0 +1,15 @@
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Raiz\bin\Debug\net8.0\Calcular Raiz.exe
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Raiz\bin\Debug\net8.0\Calcular Raiz.deps.json
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Raiz\bin\Debug\net8.0\Calcular Raiz.runtimeconfig.json
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Raiz\bin\Debug\net8.0\Calcular Raiz.dll
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Raiz\bin\Debug\net8.0\Calcular Raiz.pdb
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Raiz\obj\Debug\net8.0\Calcular Raiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Raiz\obj\Debug\net8.0\Calcular Raiz.AssemblyInfoInputs.cache
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Raiz\obj\Debug\net8.0\Calcular Raiz.AssemblyInfo.cs
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Raiz\obj\Debug\net8.0\Calcular Raiz.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Raiz\obj\Debug\net8.0\Calcular Raiz.sourcelink.json
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Raiz\obj\Debug\net8.0\Calcular Raiz.dll
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Raiz\obj\Debug\net8.0\refint\Calcular Raiz.dll
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Raiz\obj\Debug\net8.0\Calcular Raiz.pdb
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Raiz\obj\Debug\net8.0\Calcular Raiz.genruntimeconfig.cache
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular Raiz\obj\Debug\net8.0\ref\Calcular Raiz.dll

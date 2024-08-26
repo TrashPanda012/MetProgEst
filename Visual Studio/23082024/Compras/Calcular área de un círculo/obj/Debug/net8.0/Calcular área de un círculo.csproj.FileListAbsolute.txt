@@ -1,0 +1,15 @@
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular área de un círculo\bin\Debug\net8.0\Calcular área de un círculo.exe
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular área de un círculo\bin\Debug\net8.0\Calcular área de un círculo.deps.json
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular área de un círculo\bin\Debug\net8.0\Calcular área de un círculo.runtimeconfig.json
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular área de un círculo\bin\Debug\net8.0\Calcular área de un círculo.dll
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular área de un círculo\bin\Debug\net8.0\Calcular área de un círculo.pdb
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular área de un círculo\obj\Debug\net8.0\Calcular área de un círculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular área de un círculo\obj\Debug\net8.0\Calcular área de un círculo.AssemblyInfoInputs.cache
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular área de un círculo\obj\Debug\net8.0\Calcular área de un círculo.AssemblyInfo.cs
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular área de un círculo\obj\Debug\net8.0\Calcular área de un círculo.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular área de un círculo\obj\Debug\net8.0\Calcular área de un círculo.sourcelink.json
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular área de un círculo\obj\Debug\net8.0\Calcular área de un círculo.dll
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular área de un círculo\obj\Debug\net8.0\refint\Calcular área de un círculo.dll
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular área de un círculo\obj\Debug\net8.0\Calcular área de un círculo.pdb
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular área de un círculo\obj\Debug\net8.0\Calcular área de un círculo.genruntimeconfig.cache
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\Calcular área de un círculo\obj\Debug\net8.0\ref\Calcular área de un círculo.dll

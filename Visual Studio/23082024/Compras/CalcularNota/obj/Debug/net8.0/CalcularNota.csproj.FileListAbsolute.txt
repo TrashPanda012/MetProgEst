@@ -1,0 +1,15 @@
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\CalcularNota\bin\Debug\net8.0\CalcularNota.exe
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\CalcularNota\bin\Debug\net8.0\CalcularNota.deps.json
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\CalcularNota\bin\Debug\net8.0\CalcularNota.runtimeconfig.json
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\CalcularNota\bin\Debug\net8.0\CalcularNota.dll
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\CalcularNota\bin\Debug\net8.0\CalcularNota.pdb
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\CalcularNota\obj\Debug\net8.0\CalcularNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\CalcularNota\obj\Debug\net8.0\CalcularNota.AssemblyInfoInputs.cache
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\CalcularNota\obj\Debug\net8.0\CalcularNota.AssemblyInfo.cs
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\CalcularNota\obj\Debug\net8.0\CalcularNota.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\CalcularNota\obj\Debug\net8.0\CalcularNota.sourcelink.json
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\CalcularNota\obj\Debug\net8.0\CalcularNota.dll
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\CalcularNota\obj\Debug\net8.0\refint\CalcularNota.dll
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\CalcularNota\obj\Debug\net8.0\CalcularNota.pdb
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\CalcularNota\obj\Debug\net8.0\CalcularNota.genruntimeconfig.cache
+C:\Users\kevin\Documents\UAM\Segundo Semestre\Metodología de la programación estructurada\Visual Studio\23082024\Compras\CalcularNota\obj\Debug\net8.0\ref\CalcularNota.dll

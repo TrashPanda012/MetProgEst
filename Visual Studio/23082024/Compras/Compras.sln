@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compras", "Compras\Compras.csproj", "{C50D1D17-4C34-4CAA-AFFB-A913E54CA8E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Compras", "Compras\Compras.csproj", "{C50D1D17-4C34-4CAA-AFFB-A913E54CA8E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularNota", "CalcularNota\CalcularNota.csproj", "{1261A175-75AC-45A8-99C4-CBB8B9604534}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcularNota", "CalcularNota\CalcularNota.csproj", "{1261A175-75AC-45A8-99C4-CBB8B9604534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcular Cubo", "Calcular Cubo\Calcular Cubo.csproj", "{B31AE2EE-DBEE-444E-B3E6-DFD070B123FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcular Raiz", "Calcular Raiz\Calcular Raiz.csproj", "{CB3FD9C9-70B2-4303-98D9-21F20B330D4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcular área de un círculo", "Calcular área de un círculo\Calcular área de un círculo.csproj", "{10B2E0BE-D922-4AE0-93AC-38D8AAA598E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{1261A175-75AC-45A8-99C4-CBB8B9604534}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1261A175-75AC-45A8-99C4-CBB8B9604534}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1261A175-75AC-45A8-99C4-CBB8B9604534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B31AE2EE-DBEE-444E-B3E6-DFD070B123FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31AE2EE-DBEE-444E-B3E6-DFD070B123FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31AE2EE-DBEE-444E-B3E6-DFD070B123FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31AE2EE-DBEE-444E-B3E6-DFD070B123FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB3FD9C9-70B2-4303-98D9-21F20B330D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB3FD9C9-70B2-4303-98D9-21F20B330D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB3FD9C9-70B2-4303-98D9-21F20B330D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB3FD9C9-70B2-4303-98D9-21F20B330D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10B2E0BE-D922-4AE0-93AC-38D8AAA598E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B2E0BE-D922-4AE0-93AC-38D8AAA598E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B2E0BE-D922-4AE0-93AC-38D8AAA598E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B2E0BE-D922-4AE0-93AC-38D8AAA598E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
